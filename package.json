@@ -1,0 +1,22 @@
+{
+  "name": "electron-form",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "devDependencies": {
+    "electron": "^34.3.3",
+    "install": "^0.13.0",
+    "npm": "^11.2.0"
+  },
+  "dependencies": {
+    "puppeteer": "^24.4.0"
+  }
+}
